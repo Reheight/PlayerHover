@@ -1,0 +1,5 @@
+name: PlayerHover
+version: 1.0
+description: Allows information of a player to be displayed upon hover
+author: Reheight
+main: me.reheight.playerhover.Main
